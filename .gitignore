@@ -1,0 +1,6 @@
+pretrained
+dataset_emb
+*.txt
+*.csv
+*.tsv
+*.fasta
